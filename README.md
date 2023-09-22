@@ -39,17 +39,28 @@ This project is organized into different Jupyter notebooks, each serving a speci
 3. **Clustering Analysis Notebook:** `notebooks/clustering.ipynb`
    - Explore clustering techniques to group customers based on their behavior.
    - Understand the characteristics of different customer segments.
+   - Explanation and analysis of our findings
 
 
-
-4. **Reports and Results:** 
-   - Review the `reports` directory for project reports and findings.
 
 To run any of these notebooks, open them using Jupyter Notebook or Jupyter Lab and execute the cells step by step. Make sure you have the required libraries and dependencies installed.
 
 Feel free to experiment, modify, and contribute to different parts of the project based on your requirements.
 
 
+## Analysis and Insights
+
+In this project, we aimed to understand customer churn and retention patterns in the banking industry. By clustering our customer data into five distinct groups, we identified that Cluster 3 has the highest attrition rate and specific characteristics, including higher total transaction amounts and counts, as well as lower credit limits.
+
+### Recommendation
+
+To improve customer retention in Cluster 3, we suggest implementing tailored retention strategies. These could include adjusting credit limits, offering targeted promotions, and providing enhanced customer support to address the specific needs and concerns of this customer group.
+
+These insights can guide the bank in making data-driven decisions to reduce customer churn and increase overall customer satisfaction.
+
+---
+
+For more details and code implementation, please refer to the project's notebooks in the `notebooks/` directory.
 
 ## Contributors
 Fatemeh Loni
@@ -67,3 +78,9 @@ The project uses the following data sources:
 
 Bank Churners Dataset: 
 [Credit Card Customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+
+
+
+
+
+
