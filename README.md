@@ -1,5 +1,7 @@
 # Customer Churn Analysis
 
+![plot](assets/plot.png)
+
 ## Description
 
 This project aims to predict customer churn for a financial institution and identify characteristics of potential churners. By analyzing customer data and building machine learning models, we aim to assist the marketing team in designing targeted campaigns to improve customer retention.
